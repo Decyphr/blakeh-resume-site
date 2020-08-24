@@ -1,0 +1,35 @@
+- name: Spotify UI Rebuild
+  url: https://codesandbox.io/s/9lmkknx0vy
+  description: I challenged myself to recreate the Spotify Web App's UI. I used only React with no UI libraries.
+  status: live
+  tags:
+    - React
+  icon: website
+
+- name: Pomodoro Timer
+  url: https://codesandbox.io/s/pomodoro-fcc-wpoht
+  description: A simple pomodoro timer built with React & styled-components. I experimented with minimalistic design in this project and loved the outcome.
+  status: live
+  tags:
+    - React
+    - Styled-Components
+  icon: website
+
+- name: Color Paletter Generator
+  url: https://codesandbox.io/s/suspicious-leaf-03e99
+  description: A Coolors clone. I wanted to experiment with the React Context API as a source for local state.
+  status: live
+  tags:
+    - React
+    - Context API
+    - styled-components
+  icon: website
+
+- name: VanillaJS Calculator
+  url: https://codepen.io/Decyphr/pen/KQyYYB
+  description: A calculator built with the fundamentals. I built this as a part of freeCodeCamp's curriculum.
+  status: live
+  tags:
+    - JavaScript
+    - HTML/CSS
+  icon: website
