@@ -3,13 +3,13 @@
   name: Blake Hartman
   email: blakeha94@gmail.com
   profession: Front-End Web Developer
-  image: images/profile.jpg
+  image: images/profile.png
   location: Spearfish, SD
   relocation: false
   company: Black Hills State University
   for_hire: true
   focus: Integrating Salesforce
-  focus_url: https://gatsbyjs.org
+  focus_url: https://bhsu.edu
   about: |
     Experienced designer and web developer with a passion for designing experiences, building interfaces, and identifying opportunities to optimize for the end-user.
   skills:
